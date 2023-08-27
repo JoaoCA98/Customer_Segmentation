@@ -1,5 +1,5 @@
 # Hotel Customer Segmentation Project
-[Dataset] | [Notebook]
+[Dataset] | [Notebook](https://github.com/JoaoCA98/Customer_Segmentation/blob/main/Clustering_Customer_Segmentation.ipynb)
 ## Introduction
 In today's competitive business environment, understanding customer behavior is crucial. To effectively target and engage customers, organizations must move beyond traditional market segmentation and adopt data-driven approaches. This project revolves around creating an up-to-date customer segmentation strategy for Hotel H, a member of the independent hotel chain C in Lisbon, Portugal. By harnessing customer data, the aim is to redefine how customers are grouped for personalized marketing efforts.
 
